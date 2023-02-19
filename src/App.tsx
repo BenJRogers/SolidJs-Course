@@ -1,6 +1,7 @@
 import { Component } from "solid-js";
 import MainSidebar from "./components/sidebars/Main";
 import TrendsSidebar from "./components/sidebars/Trends";
+import MainLayout from "./components/layouts/Main";
 
 import { AiOutlineMessage } from "solid-icons/ai";
 import { FiTrash } from "solid-icons/fi";
